@@ -19,7 +19,7 @@ Build Instruction for APK:
 
 1. First clone the repository
    
-   git clone https://github.com/Shraddhaz/Photo-Scan-Summary
+   git clone https://github.com/abhishektatke/ZipBike
    
 2. Import the project in Andriod Studio
 
